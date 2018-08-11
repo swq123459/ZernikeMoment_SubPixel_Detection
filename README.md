@@ -13,7 +13,7 @@ Bacause we also tested our code on Linux device, it is no doubt that you can ach
 ### For Windows
 You could still use the main algorithm rather than interactive GUI.You only need to download this repository and add the algorithm main code :`subPixelCal.cpp`, `subPixelCal.h`, `zernikeMask.h` to your own C++ project.The following function can be call in your own project to detect the size of square or circle:
 
-```
+```c++
 ZerResult CalDistanceSquare(Mat& matRoi, double rto = MMPERPIXEL, 
 		int drawColor = WHITE, bool ifmedianBlur=YESMEDIANBLUR,
 		int cannyL = 150, int cannyH = 200, int cannyCore = 3,
