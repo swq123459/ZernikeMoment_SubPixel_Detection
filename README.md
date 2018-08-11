@@ -47,6 +47,11 @@ Or you could click ***"Local Image"*** to select an image in your computer to te
 - Checking "Use Example" box to enter the ***"demo mode"*** which allow you to roughly experience this algorithm. In this mode, by click "Squre detect" or "Circle detect" button, program will detect the size of target squre or circle and output the result in the white text area above the main interface.
 - When the input image is not a pure gray background, click the ***"Square-dectect"*** button to enter the parallel line spacing detection process, and pop up the parallel line selection form. At this time, use the mouse to select two parallel lines in the picture in the form. Pressing the ***Esc*** button will start measuring the parallel line spacing and the measurement will be displayed in the white text area. When the image area to be measured is not a pure gray background, click the Circle-dectect button to enter the circle size measurement process, and pop up the circle selection form. At this time, select a circle with the mouse frame to select the circle in the form image, and then Pressing the ***Esc*** button will start the circle size measurement, and the measurement results (radius, center position) will be displayed in the white text area.
 	
+	
+## Some results
+
+![image](https://github.com/swq123459/swq123456-readmePicture/blob/master/subpixel_pic/sample.png?raw=true)
+![image](https://github.com/swq123459/swq123456-readmePicture/blob/master/subpixel_pic/main-origin.png?raw=true)
 ## How it Works
 
 
