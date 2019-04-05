@@ -55,4 +55,5 @@ Or you could click ***"Local Image"*** to select an image in your computer to te
 ## How it Works
 - my paper: SUBPIXEL EDGE DETECTION BASED ON EDGE GRADIENT DIRECTIONAL INTERPOLATION AND ZERNIKE MOMENT
 http://www.dpi-proceedings.com/index.php/dtcse/article/view/24488
+or dowlownd from my rep which names paper
 
