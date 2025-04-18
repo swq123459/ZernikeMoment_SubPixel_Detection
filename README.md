@@ -54,7 +54,7 @@ Or you could click ***"Local Image"*** to select an image in your computer to te
 ![image](https://github.com/swq123459/swq123456-readmePicture/blob/master/subpixel_pic/main-origin.png?raw=true)
 ## How it Works
 - my paper: SUBPIXEL EDGE DETECTION BASED ON EDGE GRADIENT DIRECTIONAL INTERPOLATION AND ZERNIKE MOMENT
-http://www.dpi-proceedings.com/index.php/dtcse/article/view/24488
+https://scholar.archive.org/work/lbr7c3kj2vcnbl6y56px5zn2cu/access/wayback/http://dpi-proceedings.com/index.php/dtcse/article/download/24488/24120
 or dowlownd from my rep which names paper
 
 
